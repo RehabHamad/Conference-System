@@ -1,0 +1,144 @@
+Add_Conference Data_Mining 10 31 FCIT c1
+Add_Conference Cloud_Computing 11 31 FCIT c2
+Add_Conference Software_Engineering 12 31 FCIT c3
+Add_Conference Database 13 31 FCIT c4
+Add_Conference Next_Generation_Networks 14 31 FCIT c5
+Add_Conference Big_Data 15 31 FCIT c6
+Add_Conference HCI 16 31 FCIT c7
+Add_Conference Machine_Learning 17 31 FCIT c8
+Add_Conference Operating_System 8 31 FCIT c9
+Add_Conference Dataware_Housing_Mining 19 31 FCIT c10
+Add_Conference Organic_Chemistry 15 42 FEngg c11
+Add_Conference Fluid_Mechanics 13 42 FEngg c12
+Add_Conference Thermo_Dynamics 10 42 FEngg c13
+Add_Conference Islamic_Banking 15 40 FMng c14
+Add_Conference Banking_Solutions 16 40 FMng c15
+Add_University KAU Jeddah u1
+Add_University KSU Riyadh u2
+Add_University KKU Abha u3
+Add_University KFU Riyadh u4
+Add_University KAAU Rabigh u5
+Add_Student 101 Ali jeddah 4.3 s1 
+Add_Student 102 Laila jeddah 4.2 s2 
+Add_Student 103 Fatima jeddah 4.1 s3 
+Add_Student 104 Hina jeddah 4.4 s4 
+Add_Student 105 Faisal jeddah 4.5 s5 
+Add_Student 106 Waleed Riyadh 4.3 s6 
+Add_Student 107 Shikha Riyadh 4.2 s7 
+Add_Student 108 Sohail Riyadh 4.3 s8 
+Add_Student 109 Maryam Riyadh 4.5 s9 
+Add_Student 110 Nahid Riyadh 4.3 s10 
+Add_Student 111 Waseem Abha 4.7 s11 
+Add_Student 112 Ayad Abha 4.4 s12 
+Add_Student 113 Abdullah Abha 4.2 s13 
+Add_Student 114 Ayman Abha 4.3 s14 
+Add_Student 115 Aysha Abha 4.1 s15 
+Add_Student 116 Lily Rabigh  4.6 s16 
+Add_Student 117 Hitham Rabigh 4.1 s17 
+Add_Student 118 Rashid Rabigh 4.0 s18 
+Add_Student 119 Othman Rabigh 4.8 s19 
+Add_Student 120 Safder Rabigh 4.2 s20 
+Add_Professor 500 Abdullah 12000 Makkah p1
+Add_Professor 501 Faisal 14000 Abha p2
+Add_Professor 502 Suhaib 11000 Rabigh p3
+Add_Professor 503 Fatima 12000 Jeddah p4
+Add_Professor 504 Hina 13000 Rabigh p5
+Add_Professor 505 Mona 17000 Riyadh p6
+Add_Professor 506 Maryam 18000 Makkah p7
+Add_Professor 507 Nahid 12000 Rabigh p8
+Add_Professor 508 Asgher 19000 Makkah p9
+Add_Professor 509 Waleed 11000 Riyadh p10
+Add_Student_Conference c1 s1
+Add_Student_Conference c1 s2
+Add_Student_Conference c1 s3
+Add_Student_Conference c1 s4
+Add_Student_Conference c2 s5
+Add_Student_Conference c2 s6
+Add_Student_Conference c2 s7
+Add_Student_Conference c2 s8
+Add_Student_Conference c3 s9
+Add_Student_Conference c3 s10
+Add_Student_Conference c3 s11
+Add_Student_Conference c4 s12
+Add_Student_Conference c4 s13
+Add_Student_Conference c5 s14
+Add_Student_Conference c5 s15
+Add_Student_Conference c6 s16
+Add_Student_Conference c6 s17
+Add_Student_Conference c7 s18
+Add_Student_Conference c8 s19
+Add_Student_Conference c9 s20
+Add_Student_Conference c10 s10
+Add_Student_Conference c10 s11
+Add_Student_Conference c11 s1
+Add_Student_Conference c11 s4
+Add_Student_Conference c12 s7
+Add_Student_Conference c12 s8
+Add_Student_Conference c12 s9
+Add_Student_Conference c13 s7
+Add_Student_Conference c13 s8
+Add_Student_Conference c14 s4
+Add_Student_Conference c15 s9
+Add_Professor_Conference c1 p1
+Add_Professor_Conference c2 p2
+Add_Professor_Conference c3 p3
+Add_Professor_Conference c4 p4
+Add_Professor_Conference c5 p5
+Add_Professor_Conference c6 p6
+Add_Professor_Conference c7 p7
+Add_Professor_Conference c8 p8
+Add_Professor_Conference c9 p9
+Add_Professor_Conference c10 p10
+Add_Professor_Conference c11 p1
+Add_Professor_Conference c12 p2
+Add_Professor_Conference c13 p3
+Add_Professor_Conference c14 p4
+Add_Professor_Conference c15 p5
+Add_Professor_Conference c1 p2
+Add_Professor_Conference c1 p3
+Add_Professor_Conference c2 p4
+Add_Professor_Conference c2 p5
+Add_Professor_Conference c3 p8
+Add_Professor_Conference c3 p9
+Add_Professor_Conference c4 p3
+Add_Professor_Conference c4 p7
+Add_University_Conference c1 u1
+Add_University_Conference c2 u2
+Add_University_Conference c3 u3
+Add_University_Conference c4 u4
+Add_University_Conference c5 u5
+Add_University_Conference c6 u1
+Add_University_Conference c7 u2
+Add_University_Conference c8 u3
+Add_University_Conference c9 u4
+Add_University_Conference c10 u5
+Add_University_Conference c11 u1
+Add_University_Conference c12 u2
+Add_University_Conference c13 u3
+Add_University_Conference c14 u4
+Add_University_Conference c15 u5
+List_Conference c1
+List_Conference c2
+List_Conference c3
+List_Conference c4
+List_Conference c5
+List_Conference c6
+List_Conference c7
+List_Conference c8
+List_Conference c9
+List_Conference c10
+List_Conference c11
+List_Conference c12
+List_Conference c13
+List_Conference c14
+List_Conference c15
+List_All_Conference
+Compare c10 c6 
+Compare s4 s1
+Throw ArithmeticException
+Compare u1 u2
+Throw Exception
+Compare p3 p8
+Throw IllegalArgumentException
+Quit
+
